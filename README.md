@@ -1,2 +1,3 @@
 # ML-Mini-Project
-Machine Learning Project 
+## Malware Detection
+Machine Learning Mini Project 
